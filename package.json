@@ -1,0 +1,28 @@
+{
+  "name": "pixelquest",
+  "version": "1.0.0",
+  "description": "hypercasual html5 2d games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJSD3V/pixelquest.git"
+  },
+  "keywords": [
+    "games",
+    "html5",
+    "2D"
+  ],
+  "author": "Raajas Sode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJSD3V/pixelquest/issues"
+  },
+  "homepage": "https://github.com/RJSD3V/pixelquest#readme",
+  "dependencies": {
+    "matter": "^0.2.0",
+    "phaser": "^3.87.0"
+  }
+}
